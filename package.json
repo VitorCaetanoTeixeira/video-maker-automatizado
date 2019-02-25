@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VitorCaetanoTeixeira/video-maker-automatizado/issues"
   },
-  "homepage": "https://github.com/VitorCaetanoTeixeira/video-maker-automatizado#readme"
+  "homepage": "https://github.com/VitorCaetanoTeixeira/video-maker-automatizado#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
